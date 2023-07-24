@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/a-plus-studio/static/css/main.073c9b0a.css",
-    "main.js": "/a-plus-studio/static/js/main.5c472bd9.js",
+    "main.css": "/a-plus-studio/static/css/main.67128691.css",
+    "main.js": "/a-plus-studio/static/js/main.7e93ce87.js",
     "static/js/787.ea6bc929.chunk.js": "/a-plus-studio/static/js/787.ea6bc929.chunk.js",
+    "static/media/a_studio_hero.webp": "/a-plus-studio/static/media/a_studio_hero.c31b4fae040f54b881c1.webp",
     "index.html": "/a-plus-studio/index.html",
-    "main.073c9b0a.css.map": "/a-plus-studio/static/css/main.073c9b0a.css.map",
-    "main.5c472bd9.js.map": "/a-plus-studio/static/js/main.5c472bd9.js.map",
+    "main.67128691.css.map": "/a-plus-studio/static/css/main.67128691.css.map",
+    "main.7e93ce87.js.map": "/a-plus-studio/static/js/main.7e93ce87.js.map",
     "787.ea6bc929.chunk.js.map": "/a-plus-studio/static/js/787.ea6bc929.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5c472bd9.js"
+    "static/css/main.67128691.css",
+    "static/js/main.7e93ce87.js"
   ]
 }
