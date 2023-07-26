@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/a-plus-studio/static/css/main.67128691.css",
-    "main.js": "/a-plus-studio/static/js/main.7e93ce87.js",
+    "main.css": "/a-plus-studio/static/css/main.3b20a1ee.css",
+    "main.js": "/a-plus-studio/static/js/main.e60f4ed1.js",
     "static/js/787.ea6bc929.chunk.js": "/a-plus-studio/static/js/787.ea6bc929.chunk.js",
+    "static/media/video_thumb.png": "/a-plus-studio/static/media/video_thumb.1699f97aa2e0a132cf2d.png",
+    "static/media/client_img.png": "/a-plus-studio/static/media/client_img.a5366bdbf4118a17440a.png",
     "static/media/a_studio_hero.webp": "/a-plus-studio/static/media/a_studio_hero.c31b4fae040f54b881c1.webp",
+    "static/media/uber-eats-logo.png": "/a-plus-studio/static/media/uber-eats-logo.7314689d54fb6eddd17f.png",
+    "static/media/pngwing.com.png": "/a-plus-studio/static/media/pngwing.com.9a2de092d55d27b448b5.png",
+    "static/media/blue_girl.png": "/a-plus-studio/static/media/blue_girl.cccd0879ebec43e794c7.png",
+    "static/media/google-logo-9834.png": "/a-plus-studio/static/media/google-logo-9834.330fac308b783a6bc246.png",
+    "static/media/amazon-png-logo-vector-6701.png": "/a-plus-studio/static/media/amazon-png-logo-vector-6701.740aa7b25a15d6df9b43.png",
+    "static/media/red_girl.png": "/a-plus-studio/static/media/red_girl.7544e6db8af78f24d868.png",
+    "static/media/gray_shirt_guy.png": "/a-plus-studio/static/media/gray_shirt_guy.ec1205b5f1d8f4c0553f.png",
     "index.html": "/a-plus-studio/index.html",
-    "main.67128691.css.map": "/a-plus-studio/static/css/main.67128691.css.map",
-    "main.7e93ce87.js.map": "/a-plus-studio/static/js/main.7e93ce87.js.map",
+    "main.3b20a1ee.css.map": "/a-plus-studio/static/css/main.3b20a1ee.css.map",
+    "main.e60f4ed1.js.map": "/a-plus-studio/static/js/main.e60f4ed1.js.map",
     "787.ea6bc929.chunk.js.map": "/a-plus-studio/static/js/787.ea6bc929.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67128691.css",
-    "static/js/main.7e93ce87.js"
+    "static/css/main.3b20a1ee.css",
+    "static/js/main.e60f4ed1.js"
   ]
 }
