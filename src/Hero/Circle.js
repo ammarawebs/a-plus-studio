@@ -7,7 +7,8 @@ const Circle = (props) => {
             borderRadius: props.border_radius,
             backgroundColor:props.color,
             width:props.width,
-            height:props.height
+            height:props.height,
+            border:props.border
         }}></span>
     </div>
   )

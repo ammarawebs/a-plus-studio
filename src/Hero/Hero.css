@@ -21,12 +21,13 @@
 .hero_heading{
     font-size: 40px;
     font-weight: 600;
+    
 }
 .hero_description{
     font-weight: 400;
     color: #565656;
     width: 80%;
-    margin-bottom: 40px;
+    
 }
 
 .hero_button{
@@ -36,6 +37,7 @@
     color: white;
     font-size: 22px;
     background-color: #2639ED;
+    margin-top: 40px;
 }
 .dot{
     width: 7px;
@@ -43,12 +45,12 @@
     background-color: rgb(205, 205, 205);
     display: inline-block;
     border-radius: 50%;
-    margin: 0px 15px 0px 0px;
+    margin: 0px 13px 0px 0px;
 }
 .dot_main{
     display: flex;
     flex-direction: column;
-    margin: -40px 0px 0px -60px;
+    margin: -50px 0px 0px -70px;
     position: relative;
     z-index: -1;
 }
@@ -89,4 +91,11 @@
     margin: -80px 150px 0px 0px;
     position: relative;
     z-index: -1;
+
+}
+
+.title_main{
+    display: flex;
+    flex-direction: column;
+    
 }

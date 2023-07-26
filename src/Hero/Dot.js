@@ -1,11 +1,12 @@
 import React from 'react'
+import One_dot from './One_dot'
 
 const Dot = () => {
 
     
 
     const Dots = ()=>{
-        const dot = <span className='dot'></span>
+        const dot = <One_dot/>
         const dot_array = []
 
         for(var i=0; i<20; i++){
