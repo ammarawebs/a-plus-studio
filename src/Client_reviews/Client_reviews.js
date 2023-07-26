@@ -88,8 +88,8 @@ const Client_reviews = () => {
                     <div className="client_image_circle_bg">
                         <div className="circle_bg_div">
                             <Circle
-                                width='250px'
-                                height='250px'
+                                width='200px'
+                                height='200px'
                                 color='#FFF5DB'
                                 border_radius='50%'
                             />
@@ -100,46 +100,46 @@ const Client_reviews = () => {
                         <div className="red_girl_div">
                             <Image_circle 
                                 image={red_girl}
-                                width='120px'
+                                width='100px'
                                 margin='-80px 0px 60px 0px'
                             /> 
                             <Image_circle 
                                 image={black_hat}
-                                width='90px'
+                                width='80px'
                                 margin='0px 0px 0px 0px'
                             />                            
                         </div>
                         <div className="purple_girl_div">
                             <Image_circle 
                                 image={purple_girl}
-                                width='90px'
+                                width='80px'
                                 margin='0px 0px 50px 0px'
                             /> 
                             <Image_circle 
                                 image={blue_girl}
-                                width='170px'
+                                width='150px'
                                 margin='0px 0px 50px 0px'
                             /> 
                             <Image_circle 
                                 image={gray_shirt}
-                                width='120px'
+                                width='100px'
                                 margin='0px 0px 60px -30px'
                             /> 
                         </div>
                         <div className="black_girl_div">
                             <Image_circle 
                                 image={black_girl}
-                                width='70px'
+                                width='60px'
                                 margin='0px 0px 00px -60px'
                             /> 
                             <Image_circle 
                                 image={bald_guy}
-                                width='70px'
+                                width='60px'
                                 margin='0px 0px 0px 0px'
                             /> 
                             <Image_circle 
                                 image={pink_girl}
-                                width='90px'
+                                width='80px'
                                 margin='0px 0px 0px -70px'
                             /> 
                         </div>

@@ -4,7 +4,8 @@ const Title = (props) => {
   return (
     <div className='title_main' style={{
         alignItems: props.align,
-        lineHeight:props.lineHeight
+        lineHeight:props.lineHeight,
+        margin:props.margin
         
     }}>
         <h1 className="hero_heading" style={{

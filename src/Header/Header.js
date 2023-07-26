@@ -1,14 +1,19 @@
 import React from 'react'
+import Logo from './Logo'
 import './header.css'
 
 const Header = () => {
   return (
     <div className='Header_main'>
         <div className="header_second_main">
-            <div className="logo_div">
-                <h1 className='a'>A+</h1>
-                <p className='studio'>studio</p>
-            </div>
+            
+                {/* <h1 className='a'>A+</h1>
+                <p className='studio'>studio</p> */}
+                
+            
+            <Logo
+                width='50%'
+            />
                 <div className="navbar_div">
                     <ul className="navbar_ul">
                         <li className="navbar_li">Home</li>

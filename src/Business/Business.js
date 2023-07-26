@@ -56,6 +56,7 @@ const Business = () => {
                         <Title
                             heading='How can we help your Business ?'
                             description='We build readymade websites, mobile applications, and elaborate online business services.'
+                            Dwidth='100%'
                         />
                     </div>
                 </div>

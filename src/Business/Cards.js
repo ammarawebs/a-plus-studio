@@ -18,7 +18,7 @@ const Cards = (props) => {
                                             h_font_size='22px'
                                             align='center'
                                             align_self='center'
-
+                                            Dwidth='100%'
                                             width='70%'
 
                                         />

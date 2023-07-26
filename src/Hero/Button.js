@@ -8,6 +8,7 @@ const Button = (props) => {
         <button className='hero_button' style={{
            padding:props.padding,
            border:props.radius,
+           fontSize:props.font_size
         }}>{props.title}<img style={{
           width:props.imgWidth,
           height:props.imgHeight

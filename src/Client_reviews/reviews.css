@@ -29,7 +29,7 @@
     justify-content: center;
 }
 .client_dot_section{
-    margin: 0px 0px -150px 0px;
+    margin: 0px -50px -150px 0px;
     align-self: flex-end;
 }
 .red_border_circle_div{
@@ -42,7 +42,7 @@
 .client_reviews_div{
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 40%;
     justify-content: center;
     align-items: flex-start;
     margin: 0px 0px 0px 100px;
@@ -53,7 +53,7 @@
 }
 .client_images_circle_div{
     
-    width: 35%;
+    width: 30%;
     
     
     
@@ -75,7 +75,7 @@
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    margin: 0vh 0px 0px 0px;
+    margin: 0vh 0px 0px 30px;
     height: 50vh;
     position: relative;
     z-index: -1;
@@ -92,14 +92,14 @@
     width: 40%;
     justify-content: space-between;
     /* border: 1px solid black; */
-    margin: 0px 0px 0px -20px;
+    margin: 0px 0px 0px 30px;
 }
 .black_girl_div{
     display: flex;
     flex-direction: column;
     width: 30%;
     /* border: 1px solid black; */
-    margin: -60px 0px 0px -10px;
+    margin: -60px 0px 0px 50px;
     justify-content: space-between;
     height: 70%;
 }

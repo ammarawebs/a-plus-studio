@@ -4,6 +4,7 @@ import Our_client from './Our_client/Our_client';
 import Business from './Business/Business';
 import Video_section from './VideoSection/Video_section';
 import Client_reviews from './Client_reviews/Client_reviews';
+import Footer from './Footer/Footer';
 import Subscribe from './Subscribe/Subscribe';
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
       <Video_section/>
       <Client_reviews/>
       <Subscribe/>
+      <Footer/>
     </div>
   );
 }

@@ -54,6 +54,7 @@ const Subscribe = () => {
                             <input className='subscribe_input' type="text" placeholder='Enter your email address..'  />
                             <Button
                                 title='Contact Me'
+                                font_size='18px'
                             />
                             
                         </div>
