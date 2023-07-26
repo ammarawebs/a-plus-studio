@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/a-plus-studio/static/css/main.e099317c.css",
-    "main.js": "/a-plus-studio/static/js/main.a11f550c.js",
+    "main.css": "/a-plus-studio/static/css/main.37d6425e.css",
+    "main.js": "/a-plus-studio/static/js/main.b8357ca1.js",
     "static/js/787.ea6bc929.chunk.js": "/a-plus-studio/static/js/787.ea6bc929.chunk.js",
     "static/media/video_thumb.png": "/a-plus-studio/static/media/video_thumb.1699f97aa2e0a132cf2d.png",
     "static/media/client_img.png": "/a-plus-studio/static/media/client_img.a5366bdbf4118a17440a.png",
@@ -14,12 +14,12 @@
     "static/media/red_girl.png": "/a-plus-studio/static/media/red_girl.7544e6db8af78f24d868.png",
     "static/media/gray_shirt_guy.png": "/a-plus-studio/static/media/gray_shirt_guy.ec1205b5f1d8f4c0553f.png",
     "index.html": "/a-plus-studio/index.html",
-    "main.e099317c.css.map": "/a-plus-studio/static/css/main.e099317c.css.map",
-    "main.a11f550c.js.map": "/a-plus-studio/static/js/main.a11f550c.js.map",
+    "main.37d6425e.css.map": "/a-plus-studio/static/css/main.37d6425e.css.map",
+    "main.b8357ca1.js.map": "/a-plus-studio/static/js/main.b8357ca1.js.map",
     "787.ea6bc929.chunk.js.map": "/a-plus-studio/static/js/787.ea6bc929.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e099317c.css",
-    "static/js/main.a11f550c.js"
+    "static/css/main.37d6425e.css",
+    "static/js/main.b8357ca1.js"
   ]
 }
