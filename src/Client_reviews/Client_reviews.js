@@ -113,12 +113,12 @@ const Client_reviews = () => {
                             <Image_circle 
                                 image={purple_girl}
                                 width='90px'
-                                margin='0px 0px 60px 0px'
+                                margin='0px 0px 50px 0px'
                             /> 
                             <Image_circle 
                                 image={blue_girl}
                                 width='170px'
-                                margin='0px 0px 60px 0px'
+                                margin='0px 0px 50px 0px'
                             /> 
                             <Image_circle 
                                 image={gray_shirt}

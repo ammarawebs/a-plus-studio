@@ -24,6 +24,7 @@ const Hero = () => {
                  {/* <button className='hero_button'>Contact Now</button> */}
                  <Button 
                     title='Contact Now'
+                    margin='30px 0px 0px 0px'
                  />
                  <Dot/>
             </div>
