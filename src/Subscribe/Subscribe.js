@@ -6,11 +6,11 @@ import Dot from '../Hero/Dot'
 
 import './subscribe.css'
 
-const Subscribe = () => {
+const Subscribe = React.forwardRef((props, ref) => {
   return (
-    <div className='subscribe_main'>
+    <div className='subscribe_main' ref={ref}>
         <div className="subscribe_second_main">
-            <div className="subscribe_yellow_section">
+            <div className="subscribe_yellow_section" >
                 <Circle
                     width='250px'
                     height= '250px'
@@ -68,6 +68,6 @@ const Subscribe = () => {
         </div>
     </div>
   )
-}
+})
 
 export default Subscribe

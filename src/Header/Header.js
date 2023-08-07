@@ -2,9 +2,9 @@ import React from 'react'
 import Logo from './Logo'
 import './header.css'
 
-const Header = () => {
+const Header = React.forwardRef((props, ref2) => {
   return (
-    <div className='Header_main'>
+    <div className='Header_main' ref={ref2}>
         <div className="header_second_main">
             
                 {/* <h1 className='a'>A+</h1>
@@ -29,6 +29,6 @@ const Header = () => {
         
     </div>
   )
-}
+})
 
 export default Header
